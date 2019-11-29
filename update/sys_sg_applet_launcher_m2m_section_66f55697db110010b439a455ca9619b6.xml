@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Expenses Mobile">26f59297db110010b439a455ca961979</applet_launcher>
+        <order/>
+        <section display_value="Expenses List">6ef55697db110010b439a455ca9619b5</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-29 03:32:28</sys_created_on>
+        <sys_id>66f55697db110010b439a455ca9619b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Expenses Mobile" source="x_262113_expensesm">5f73ded3db110010b439a455ca961973</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Expenses Mobile">5f73ded3db110010b439a455ca961973</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_66f55697db110010b439a455ca9619b6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-29 03:32:28</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>

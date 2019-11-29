@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="budget_allocated" label="Budget Allocated" language="en" table="x_262113_expensesm_expenses_monthly">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>budget_allocated</element>
+            <help/>
+            <hint/>
+            <label>Budget Allocated</label>
+            <language>en</language>
+            <name>x_262113_expensesm_expenses_monthly</name>
+            <plural>Budget Allocated</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-29 03:28:02</sys_created_on>
+            <sys_id>3df45657db110010b439a455ca96196e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Budget Allocated</sys_name>
+            <sys_package display_value="Expenses Mobile" source="x_262113_expensesm">5f73ded3db110010b439a455ca961973</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Expenses Mobile">5f73ded3db110010b439a455ca961973</sys_scope>
+            <sys_update_name>sys_documentation_x_262113_expensesm_expenses_monthly_budget_allocated_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-29 03:28:02</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

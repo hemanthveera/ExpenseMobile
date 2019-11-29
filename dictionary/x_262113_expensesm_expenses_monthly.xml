@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Expenses Monthly" max_length="40" name="x_262113_expensesm_expenses_monthly" type="collection">
+        <element attributes="omit_sys_original=true" label="Budget Allocated" max_length="20" name="budget_allocated" type="currency"/>
+        <element attributes="omit_sys_original=true" label="Budget Available" max_length="20" name="budget_available" type="currency"/>
+        <element attributes="omit_sys_original=true" label="Budget Daily Limit" max_length="20" name="budget_daily_limit" type="currency"/>
+        <element attributes="omit_sys_original=true" label="Budget Monthly Limit" max_length="20" name="budget_monthly_limit" type="currency"/>
+        <element attributes="omit_sys_original=true" label="Budget Spent" max_length="20" name="budget_spent" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="MonthYear" max_length="40" name="monthyear" type="glide_date"/>
+    </element>
+</database>

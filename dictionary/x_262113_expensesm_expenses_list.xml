@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Expenses List" max_length="40" name="x_262113_expensesm_expenses_list" type="collection">
+        <element attributes="omit_sys_original=true" label="Cost" max_length="20" name="cost" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Expense Category" max_length="40" name="expense_category" type="string">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Expense Date" max_length="40" name="expense_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Expense Sub Category" max_length="40" name="expense_sub_category" type="string">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="150" name="notes" type="string"/>
+    </element>
+</database>
